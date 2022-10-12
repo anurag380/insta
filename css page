@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkalami&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alkalami&display=swap');
+
+body{background-color:whitesmoke;
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-right: 20%;}
+
+#out1{margin-bottom: 8%;}
+#out2{margin-top: 8%;
+    background-color: white;}
+
+#head h2{font-family: 'Alkalami', serif;}
+
+
+#set1{text-align: center;
+    justify-content: center;
+    border: 1px solid black;
+    width: 40vh;
+    height: 45vh;
+    padding: 30px;
+    }
+  
+#do{border: 1px solid black;
+    margin-top: 10%;}
+
+.in input{margin-bottom: 5%;
+        width: 78%;background-color: rgb(235, 232, 232);
+        border-color: white;
+        border-radius: 5%;}
+
+#btn input{width: 80%;background-color:rgb(68, 68, 222);color: white;
+    border-radius: 5%;
+    border-color: rgb(68, 68, 222);}
+
+#divider{text-align: center;
+        width:32vh;
+        margin-left: 10%;
+        margin-right: 25%;}
+
+.left{float: left;}
+.right{float: right;}
+
+#divider hr{width: 42%;
+        margin-left: auto;
+        margin-right: auto;}
+
+#fb a{text-decoration: none;font-family: 'Alkalami', serif;}
+
+#forg a{text-decoration: none;font-family: 'Alkalami', serif;}
+
+#do a{text-decoration: none;}
+
+#do p{font-family: 'Alkalami', serif;}
+
+#app{display: flex;justify-content: center;}
+
+#img1{margin-top: 5%;} 
+
+#img2{margin-top: 7%;}
+
